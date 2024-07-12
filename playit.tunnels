@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "force-rom.gl.joinmc.link",
-          "assigned_srv": "force-rom.gl.joinmc.link",
+          "assigned_domain": "receive-pink.gl.joinmc.link",
+          "assigned_srv": "receive-pink.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d665b9fa-14b9-45d4-b22c-825c0f629e9c",
+          "id": "4c51cccc-fb41-49ab-a99a-bd53b9d7fa64",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 61930,
-          "port_start": 61929,
+          "port_end": 36277,
+          "port_start": 36276,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-06T02:48:12.222233Z",
+      "created_at": "2024-07-12T00:43:14.709355Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "75389543-bd47-48b6-afea-f925ed98a0fd",
+      "id": "143883b2-8734-4fdd-a619-d32cc40f11b4",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "f28d512d-00c7-4081-9a45-c55cafb36126",
-          "agent_name": "IPMINECRAFT",
+          "agent_id": "0df7a1e4-d374-45d6-926d-d7b4ed9e2e00",
+          "agent_name": "Naruto",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
